@@ -1,1 +1,6 @@
 ﻿product_code,product_name,line_of_business,base_annual_premium
+AUTO-RCA,Motor Third Party Liability,Motor,1400
+AUTO-CASCO,Motor Own Damage (CASCO),Motor,3200
+HOME-STD,Home Insurance Standard,Property,450
+HEALTH-PLUS,Private Health Plus,Health,2400
+TRAVEL-EU,Travel Insurance Europe,Travel,180
