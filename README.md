@@ -1,5 +1,8 @@
 # Insurance BI & Claims Analytics Platform
-
+## 📊 Power BI Dashboard Preview
+![Dashboard Open](screenshots/dashboard_open.png)
+![Dashboard Paid](screenshots/dashboard_paid.png)
+![Dashboard Rejected](screenshots/dashboard_rejected.png)
 End-to-end BI solution for a fictional insurance company: data from **three source systems** (two CSV exports and a separate PostgreSQL database) is extracted, validated, cleaned and loaded into a **PostgreSQL star-schema warehouse**, then reported in **Power BI** (loss ratio, claim frequency, claim severity, revenue, payouts).
 
 The focus is on what makes BI numbers trustworthy: layered architecture, explicit data-quality rules, idempotent loads, full audit trail and automated tests.
